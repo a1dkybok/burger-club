@@ -54,6 +54,12 @@ header{
   border-radius: 8px;
 }
 
+.x6:hover{
+  background-color: white;
+  color: black;
+}
+
+
 .s2{
   text-decoration: none;
   color: white;
