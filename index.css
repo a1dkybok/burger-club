@@ -1,0 +1,277 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body{
+background-color: #171508;
+color: white;
+}
+
+.z4 li{
+  display: inline-block;
+  vertical-align: middle;
+  margin-right: 35px;
+  text-decoration: none ;
+}
+
+.z4, .logo{
+  display: inline-block;
+  vertical-align: middle;
+  margin-right: 30px;
+  margin-top: 20px;
+  text-decoration: none ;
+  font-family:sans-serif;
+}
+
+header{
+  display: flex;
+  justify-content: center;
+}
+
+.z4 a{
+  font-family: arial;
+  font-size: 20px;
+  color: white;
+  vertical-align: middle;
+  text-decoration: none ;
+}
+
+.z4 a:hover{
+  color: #FF6C00;
+}
+
+
+.logo{
+  margin-right: 40px;
+}
+
+.x1{
+  font-weight: bolder;
+  margin-top: 60px;
+  font-size: 60px;
+  width: 50%;
+  margin-left: 30px;
+  font-family: sans-serif;
+}
+
+.x3{
+  font-size: 30px;
+  font-weight: bolder;
+  width: 50%;
+  margin-left: 30px;
+  font-family: sans-serif;
+}
+
+.a1{
+  border-bottom: 3px solid #FF6C00;
+  color: #FF6C00;
+}
+
+.x1, .x3, .x4{
+  border-left: 7px solid #FF6C00;
+  margin-left: 40px;
+  padding-left: 10px;
+}
+
+.x4{
+  font-size: 40px;
+  margin-top: 40px;
+  margin-left: 40px;
+  font-weight: bolder;
+  font-family: sans-serif;
+}
+
+.s1{
+  background-color: black;
+  border: 2px solid white;
+  color: white;
+  font-family: sans-serif;
+  font-weight: bolder;
+  margin-left: 450px;
+  margin-top: 25px;
+  width: 100px;
+  height: 30px;
+  border-radius: 8px;
+}
+
+.s2{
+  text-decoration: none;
+  color: white;
+}
+
+.scale {
+  transition: 0.5s;
+  margin-left: 70px;
+  margin-top: 70px;
+  border-radius: 8px;
+}
+
+.scale:hover { transform: scale(1.1);
+}
+
+.x6{
+  margin-top: 15px;
+  margin-left: 70px;
+  font-size: 40px;
+  font-weight: bolder;
+  font-family: sans-serif;
+}
+
+.x7{
+  margin-left: 70px;
+  font-size: 30px;
+  font-family: serif;
+}
+.x9{
+  margin-top: -485px;
+  margin-left: 800px;
+  font-size: 40px;
+  font-weight: bolder;
+  font-family: sans-serif;
+}
+
+.x10{
+  margin-top: 5px;
+  margin-left: 70px;
+  font-size: 40px;
+  font-weight: bold;
+  font-family: sans-serif;
+  line-height: 30px;
+}
+
+.x11{
+  margin-left: 70px;
+  font-size: 30px;
+  font-family: serif;
+}
+
+.x13{
+  margin-top: 25px;
+  margin-left: 70px;
+  font-size: 40px;
+  font-weight: bolder;
+  font-family: sans-serif;
+  line-height: 10px;
+}
+
+.x14{
+  margin-left: 70px;
+  font-size: 30px;
+  line-height: 60px;
+  font-family: serif;
+}
+
+.b1{
+  margin-top: -520px;
+  margin-left: 800px;
+  font-size: 40px;
+  font-weight: bolder;
+  font-family: sans-serif;
+}
+
+.x17{
+  margin-top: 20px;
+  margin-left: 70px;
+  font-size: 40px;
+  font-weight: bold;
+  font-family: sans-serif;
+  line-height: 30px;
+  line-height: 15px;
+}
+
+.x18{
+  margin-left: 70px;
+  font-size: 30px;
+  line-height: 50px;
+  font-family: serif;
+}
+
+.b3{
+  margin-top: -530px;
+  margin-left: 800px;
+  font-size: 40px;
+  font-weight: bolder;
+  font-family: sans-serif;
+}
+
+.x21{
+  margin-top: 5px;
+  margin-left: 70px;
+  font-size: 40px;
+  font-weight: bold;
+  font-family: sans-serif;
+  line-height: 30px;
+}
+
+.x22{
+  margin-left: 70px;
+  font-size: 30px;
+  font-family: serif;
+}
+
+.b{
+  margin-top: -520px;
+  margin-left: 800px;
+  font-size: 40px;
+  font-weight: bolder;
+  font-family: sans-serif;
+}
+
+.x19{
+  margin-top: 20px;
+  margin-left: 70px;
+  font-size: 40px;
+  font-weight: bold;
+  font-family: sans-serif;
+  line-height: 30px;
+  line-height: 15px;
+}
+
+.x20{
+  margin-left: 70px;
+  font-size: 30px;
+  line-height: 50px;
+  font-family: serif;
+}
+
+.x21{
+  margin-top: 20px;
+  margin-left: 70px;
+  font-size: 40px;
+  font-weight: bold;
+  font-family: sans-serif;
+  line-height: 30px;
+  line-height: 15px;
+}
+
+.x22{
+  margin-left: 70px;
+  font-size: 30px;
+  font-family: serif;
+}
+
+.b4{
+  margin-top: -30px;
+  margin-left: 400px;
+  font-size: 40px;
+  font-weight: bolder;
+  font-family: sans-serif;
+}
+
+.x27{
+  margin-top: 20px;
+  margin-left: 70px;
+  font-size: 40px;
+  font-weight: bold;
+  font-family: sans-serif;
+  line-height: 30px;
+  line-height: 15px;
+}
+
+.x28{
+  margin-left: 70px;
+  font-size: 30px;
+  line-height: 50px;
+  font-family: serif;
+}
